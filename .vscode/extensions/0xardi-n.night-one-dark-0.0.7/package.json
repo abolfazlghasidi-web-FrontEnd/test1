@@ -1,0 +1,46 @@
+{
+	"name": "night-one-dark",
+	"displayName": "Night One Dark",
+	"description": "VSCode Theme based on One Dark Material theme but with blue taste and reduce eye strain",
+	"publisher": "0xardi-n",
+	"version": "0.0.7",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"author": {
+		"name": "Ardi Nugraha",
+		"email": "0x4rd1@gmail.com",
+		"url": "https://www.linkedin.com/in/ardi-nugraha-5a6bb2175/"
+	},
+	"icon": "icons/night-one-dark.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Night One Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Night One Dark-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"url": "https://github.com/0xArdi-N/Night-One-Dark-theme.git",
+		"type": "git"
+	},
+	"__metadata": {
+		"id": "0bbddfc3-9eac-475e-af0d-d68937632090",
+		"publisherId": "117189a5-a6e0-4155-a173-999f9f938b81",
+		"publisherDisplayName": "Ardi Nugraha",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1721832117835,
+		"preRelease": false,
+		"hasPreReleaseVersion": false,
+		"pinned": false,
+		"source": "gallery"
+	}
+}
