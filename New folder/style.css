@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Impact;
+}
+.felex-container,
+.flex-item {
+    border-radius:0.2rem ;
+}
+.felex-container{
+    height: 40rem;
+    width: 50rem;
+    background-color: rgb(100,190, 223);
+    border-radius: 0.2rem;
+    padding: 1rem;
+    margin: 2rem auto;
+    display:flex;
+    /* flex-direction:row;
+    flex-wrap: wrap; */
+    justify-content:center;
+    flex-flow: row wrap;
+    align-items: baseline;
+    
+}
+.felex-item{
+    width: 7rem;
+    height: 6rem;
+    line-height: 5rem;
+    background-color: rgb(240, 236, 99);
+    text-align: center;
+    margin: 0.5rem;
+    font-size: 4rem;
+    
+    
+     
+}
+.felex{
+    width: 6rem;
+    height: 7rem;
+    line-height: 4rem;
+    font-size:3rem;
+    background-color: chartreuse;
+    color: antiquewhite;
+}
